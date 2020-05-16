@@ -1,5 +1,5 @@
  align="center">
-  <img src= "/Design/Logo/Logo.png"
+  <img src= "/img/arduino-logo.png"
   width="700" heigth="700"><br>
 </p>
 
