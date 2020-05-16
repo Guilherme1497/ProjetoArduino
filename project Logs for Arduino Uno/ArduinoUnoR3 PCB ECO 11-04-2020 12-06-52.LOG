@@ -1,0 +1,15 @@
+Added Component: Designator=H1(HOLE_M3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(HOLE_M3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=+VIN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=+5VD Pin=P1-4
+Added Pin To Net: NetName=+3V3D Pin=P1-5
+Added Pin To Net: NetName=RST Pin=P1-6
+Added Pin To Net: NetName=+5VD Pin=P1-7
+Added Member To Class: ClassName=U_Sheet2 Member=Component H1 Hole
+Added Member To Class: ClassName=U_Sheet2 Member=Component H2 Hole
+Added Member To Class: ClassName=U_Sheet1 Member=Component P1 Header 8

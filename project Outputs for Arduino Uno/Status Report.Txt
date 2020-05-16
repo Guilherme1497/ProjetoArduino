@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Arduino Uno.PrjPCB]
+   Generated File[ArduinoUnoR3.TXT]
+   Generated File[ArduinoUnoR3.LDP]
+   Generated File[ArduinoUnoR3.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 02:25:12 On 24/04/2020
