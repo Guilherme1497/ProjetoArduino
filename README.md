@@ -1,6 +1,6 @@
-<p align="center">">
+<p align="center">
   <img src= "/img/arduino-logo.png"
-  width="700" heigth="700"><br>
+  width="700" heigth="500"><br>
 </p>
 
 
